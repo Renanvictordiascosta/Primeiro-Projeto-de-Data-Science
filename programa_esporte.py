@@ -3,6 +3,7 @@
 #um histograma mostrando a idade dos praticantes do gênero masculino de cada esporte
 #um histograma mostrando a idade dos praticantes do gênero feminino de cada esporte
 #um histograma mostrando a idade dos praticantes de cada esporte de ambos os gêneros
+#PS: Modifique o comando pandas na linha 12 corretamente, para se adequar ao caminho correto a ser percorrido para chegar na planilha do excel, no seu computador.
 
 import matplotlib.pyplot as plot #biblioteca para mostrar os gráficos
 import pandas as pd #biblioteca para ler a planilha
